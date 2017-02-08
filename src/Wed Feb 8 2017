@@ -1,0 +1,19 @@
+[ython
+
+for i in range(5):
+ [0,1,2,3,4]
+
+java
+
+for (int i  = 0; i<5; i++){
+     init        test  pba
+     opt               opt
+}
+
+test = boolean
+
+while = boolean
+
+while(){
+
+}
