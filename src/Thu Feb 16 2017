@@ -1,0 +1,20 @@
+1 scanner
+
+int n1 = scanner.nextInt();
+
+______
+1,2,\n,1,9,\n
+_____
+
+int n2 = scanner nextINt();
+
+got \n not 19
+
+use next line to move past nextline
+
+\mn
+
+\n
+
+-------------------------------
+
