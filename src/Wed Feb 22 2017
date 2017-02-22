@@ -1,0 +1,91 @@
+java is object oriented
+
+object is a collection of data about things
+
+data cand code that works on data
+
+encapsulates everything about an object into one thing
+
+objects have state and behaviors
+
+state:
+toatsing
+not toasting
+pulgged in
+darkness setting
+size of bread
+slots
+size/dimensions
+inner dimersions/i.d.
+
+bahviors: -things that it can do (or) -things that others can do to it!
+be toasting / set toasting
+be pulgged
+be dark leverl/set dark level
+get dark level
+get size
+get slots
+get color
+dimensions get
+get i.d.
+alarm()
+
+-----------`anatomy of a class
+
+|public class toaster
+|
+||
+||-instance veriables
+||int num slots;
+||int darknessLevel;
+||String color;
+||-constants
+||-class variables
+||
+|
+||
+||-constructor(s) (method) -constructor name has class name (and) -constructor has no return type
+||
+|
+||
+||-methodes
+||
+|||
+|||getters{accessors}
+|||
+||
+|||
+|||-setters{mutators}
+|||
+||
+|||
+|||-misc. helpers{everythign else)}{helpers}
+|||
+||
+|
+
+public int getNum Slots
+
+public void set
+
+speaker:
+
+state:
+-on/off
+-volume
+-dimensions
+-color
+Behavior:
+seton/off
+getOn
+setVolumne
+getVolume
+getDimensions
+getColor
+
+boolean isOn;
+int volume;
+int dimX;
+int dimY;
+int dimZ;
+String color;
